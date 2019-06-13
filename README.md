@@ -1,10 +1,10 @@
-# Svelte Tailwind Template
+# Vowelcast
 
 ## Get started
 
 ```bash
-git clone https://github.com/muhajirdev/svelte-tailwind-template
-cd svelte-tailwind-template
+git clone https://github.com/vowelcorp/vowelcast
+cd vowelcast
 npm install
 ```
 
