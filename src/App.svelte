@@ -1,9 +1,8 @@
 <script>
-  export let name;
 </script>
 
 <div class="bg-red-500">
-  <h1>Hello {name}!</h1>
+  <h1 class="text-3xl">Hello!</h1>
 </div>
 
 <style>

@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "bundle.css",
+  "sources": [
+    "../src/App.svelte"
+  ],
+  "sourcesContent": [
+    "<script>\n</script>\n\n<div class=\"bg-red-500\">\n  <h1 class=\"text-3xl\">Hello!</h1>\n</div>\n\n<style>\n  @import \"/bundle.css\";\n</style>\n"
+  ],
+  "names": [],
+  "mappings": "AAQE,QAAQ,aAAa,CAAC"
+}
